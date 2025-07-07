@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ortssolutionsy&show_icons=true&count_private=true&hide_border=true&title_color=1dafdb&icon_color=1dafdb&text_color=c9d1d9&bg_color=0d1117" alt="ORT repository GitHub Stats"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ortssolutions&show_icons=true&count_private=true&hide_border=true&title_color=1dafdb&icon_color=1dafdb&text_color=c9d1d9&bg_color=0d1117" alt="Ortssolutions GitHub Stats"/>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortRepository&layout=compact&hide_border=true&title_color=1DAFDB&text_color=1DAFDB&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ortssolutions&layout=compact&hide_border=true&title_color=1DAFDB&text_color=1DAFDB&bg_color=0d1117" />
 
 </div>
 
-[![Raimundo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ORTrepository&custom_title=ORTrepository0Contribution%20Graph&hide_border=true&bg_color=0d1117&title_color=1DAFDB&color=1DAFDB&line=1DAFDB&point=1DAFDB)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ortssolutions github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ortssolutions&custom_title=OrtssolutionsContribution%20Graph&hide_border=true&bg_color=0d1117&title_color=1DAFDB&color=1DAFDB&line=1DAFDB&point=1DAFDB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
