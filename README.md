@@ -59,5 +59,6 @@ Our team is ready to transform your idea into practical, modern and effective di
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Ortssolutions/count.svg" alt="Contador de Visitantes" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Ortssolutions" alt="Contador de Visitantes">
 </div>
+
